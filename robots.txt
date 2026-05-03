@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://salutethegenius.github.io/reference-8fxueq/sitemap.xml
